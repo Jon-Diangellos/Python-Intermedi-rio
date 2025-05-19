@@ -1,2 +1,2 @@
 # Python-Intermedi-rio
-Repositório criado para organizar meus aprendizados sobre Python intermediário, durante o curso de Programação de Computadores na EFG - Sarah Luísa Lemos Kubitschek de Oliveira.
+Este repositório reúne exercícios, anotações e projetos desenvolvidos durante os estudos de Python em nível intermediário, como parte do curso de Programação de Computadores da EFG - Sarah Luísa Lemos Kubitschek de Oliveira.
